@@ -7,3 +7,4 @@ cython==0.29.3
 fasttext==0.9.1
 lime==0.1.1.36
 spacy==2.1.8
+gunicorn
